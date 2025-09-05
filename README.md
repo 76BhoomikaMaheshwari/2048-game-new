@@ -1,8 +1,5 @@
 # 2048 Game - Bhoomika's Version 🎮
 
-This is my customized fork of the original [2048 game]  
-
----
 
 ## ✨ What I Did
 - Added a **Dockerfile** to containerize the game  
