@@ -1,6 +1,6 @@
 # 2048 Game - Bhoomika's Version 🎮
 
-This is my customized fork of the original [2048 game](https://github.com/gabrielecirulli/2048).  
+This is my customized fork of the original [2048 game]  
 
 ---
 
